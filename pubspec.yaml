@@ -1,0 +1,7 @@
+name: leaflet_heatmap
+dependencies:
+  browser: any
+  heatmap:
+    path: ../heatmap
+  leaflet:
+    path: ../leaflet
