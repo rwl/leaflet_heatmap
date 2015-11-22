@@ -2,7 +2,7 @@ name: leaflet_heatmap
 version: 0.0.1
 author: Richard Lincoln <r.w.lincoln@gmail.com>
 description: Create a heatmap layers for Leaflet
-homepage: https://github.com/rwl/leaflet_fullscreen
+homepage: https://github.com/rwl/leaflet_heatmap
 dependencies:
   heatmap: '>=0.0.1 <0.1.0'
   leaflet: '>=0.0.1 <0.1.0'
