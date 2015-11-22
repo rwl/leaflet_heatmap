@@ -1,4 +1,4 @@
-library leaflet_heatmap.heatmap_overlay;
+library leaflet.heatmap;
 
 import 'dart:js';
 import 'package:leaflet/leaflet.dart';

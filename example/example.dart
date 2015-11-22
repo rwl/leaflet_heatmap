@@ -1,5 +1,5 @@
 import 'package:leaflet/leaflet.dart';
-import 'package:leaflet_heatmap/heatmap_overlay.dart';
+import 'package:leaflet_heatmap/leaflet_heatmap.dart';
 
 main() {
   var testData = {
